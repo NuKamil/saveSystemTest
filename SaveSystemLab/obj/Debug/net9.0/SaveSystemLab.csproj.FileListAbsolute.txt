@@ -15,3 +15,4 @@ C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab
 C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.pdb
 C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.genruntimeconfig.cache
 C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\ref\SaveSystemLab.dll
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.sourcelink.json

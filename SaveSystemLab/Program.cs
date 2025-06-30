@@ -98,16 +98,16 @@ SaveHeader? machedHeader = GetHeaderBySlot(myList, 2);
 
 
 
-if (machedHeader is not null)
-{
-    Console.WriteLine($"SLOT: {machedHeader.SaveSlot}");
-    Console.WriteLine($"CHECKPOINT: {machedHeader.CheckpointName}");
-    Console.WriteLine($"TIME: {machedHeader.SaveTime}");
-}
-else
-{
-    Console.WriteLine("No save found in this slot.");
-}
+// if (machedHeader is not null)
+// {
+//     Console.WriteLine($"SLOT: {machedHeader.SaveSlot}");
+//     Console.WriteLine($"CHECKPOINT: {machedHeader.CheckpointName}");
+//     Console.WriteLine($"TIME: {machedHeader.SaveTime}");
+// }
+// else
+// {
+//     Console.WriteLine("No save found in this slot.");
+// }
 
 
 
@@ -120,4 +120,25 @@ void SaveGameToSlot(GameSaveData data, int slot)
     Console.WriteLine($"Saved to slot {slot}");
 }
 
-SaveGameToSlot(saveData, 3);
+// SaveGameToSlot(saveData, 3);
+
+
+
+GameSaveData? LoadGameDataFromSlot(int slot)
+{
+    string slotToRead = $"./save{slot}.json";
+    if (!File.Exists(slotToRead)) return null;
+
+    string jsonData = File.ReadAllText(slotToRead);
+
+    if (string.IsNullOrEmpty(jsonData)) return null;
+    return JsonConvert.DeserializeObject<GameSaveData>(jsonData);
+}
+
+
+var loaded = LoadGameDataFromSlot(3);
+if (loaded is not null)
+{
+    Console.WriteLine(loaded.CheckpointName);
+}
+
