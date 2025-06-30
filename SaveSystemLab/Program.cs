@@ -68,7 +68,7 @@ var saveData = new GameSaveData
 List<SaveHeader> LoadSaveHeaders()
 {
     List<SaveHeader> headers = new List<SaveHeader>();
-    string[] directoryFiles = Directory.GetFiles(".\\", "*.json");
+    string[] directoryFiles = Directory.GetFiles("./", "*.json");
     foreach (string directoryFile in directoryFiles)
     {
         // Console.WriteLine(directoryFile);
@@ -121,7 +121,6 @@ void SaveGameToSlot(GameSaveData data, int slot)
 }
 
 // SaveGameToSlot(saveData, 3);
-
 
 
 GameSaveData? LoadGameDataFromSlot(int slot)

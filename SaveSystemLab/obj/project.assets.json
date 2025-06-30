@@ -55,31 +55,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamil.nurkowski\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/kamil/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamil.nurkowski\\Documents\\Programming\\Godot\\TestsAndLearn\\SaveSystemLab\\SaveSystemLab.csproj",
+      "projectUniqueName": "/home/kamil/Documents/Programming/GameTrening/SaveSystemLab/SaveSystemLab.csproj",
       "projectName": "SaveSystemLab",
-      "projectPath": "C:\\Users\\kamil.nurkowski\\Documents\\Programming\\Godot\\TestsAndLearn\\SaveSystemLab\\SaveSystemLab.csproj",
-      "packagesPath": "C:\\Users\\kamil.nurkowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamil.nurkowski\\Documents\\Programming\\Godot\\TestsAndLearn\\SaveSystemLab\\obj\\",
+      "projectPath": "/home/kamil/Documents/Programming/GameTrening/SaveSystemLab/SaveSystemLab.csproj",
+      "packagesPath": "/home/kamil/.nuget/packages/",
+      "outputPath": "/home/kamil/Documents/Programming/GameTrening/SaveSystemLab/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kamil.nurkowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/kamil/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -98,7 +91,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -120,12 +113,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.5, 9.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

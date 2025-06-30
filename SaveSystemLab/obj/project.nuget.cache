@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RRrb29Ef7Bc=",
+  "dgSpecHash": "dQN/Zu9kNso=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kamil.nurkowski\\Documents\\Programming\\Godot\\TestsAndLearn\\SaveSystemLab\\SaveSystemLab.csproj",
+  "projectFilePath": "/home/kamil/Documents/Programming/GameTrening/SaveSystemLab/SaveSystemLab.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kamil.nurkowski\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/kamil/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/kamil/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
   ],
   "logs": []
 }
