@@ -1,0 +1,69 @@
+{
+  "Player": {
+    "Inventory": [
+      {
+        "ItemId": 1,
+        "Condition": 0.85
+      },
+      {
+        "ItemId": 5,
+        "Condition": 0.4
+      }
+    ],
+    "Money": 430,
+    "Morale": 1.0,
+    "ActiveEffects": [
+      {
+        "Id": "exhaustion",
+        "Intensity": 0.5,
+        "DurationSeconds": 120.0,
+        "Source": "lack_of_sleep",
+        "Affects": [
+          "movement"
+        ]
+      },
+      {
+        "Id": "stink",
+        "Intensity": 0.3,
+        "DurationSeconds": 180.0,
+        "Source": "bad_meat",
+        "Affects": [
+          "stealth",
+          "trade"
+        ]
+      }
+    ],
+    "CurrentQuestIds": [],
+    "Respawn": {
+      "LocationId": "Verdant Valleys",
+      "FacingDirectionDegrees": 90.0,
+      "IsDestroyed": false,
+      "Climate": "Greenhollow"
+    }
+  },
+  "World": {
+    "Reputation": {
+      "Guards": 0.8,
+      "Outcasts": 0.2
+    },
+    "KnownLocations": [
+      12,
+      7,
+      18
+    ],
+    "CompletedQuests": [
+      3,
+      6,
+      9
+    ],
+    "Time": {
+      "TimeOfDay": "Day",
+      "DayCount": 15,
+      "Weather": "Sunny"
+    },
+    "Season": "Winter"
+  },
+  "CheckpointName": "The Whispering Glade",
+  "SaveTime": "2025-06-30T12:11:36.5391231Z",
+  "SaveSlot": 3
+}

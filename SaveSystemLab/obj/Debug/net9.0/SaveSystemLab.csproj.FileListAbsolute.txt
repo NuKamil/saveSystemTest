@@ -1,0 +1,17 @@
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\bin\Debug\net9.0\SaveSystemLab.exe
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\bin\Debug\net9.0\SaveSystemLab.deps.json
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\bin\Debug\net9.0\SaveSystemLab.runtimeconfig.json
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\bin\Debug\net9.0\SaveSystemLab.dll
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\bin\Debug\net9.0\SaveSystemLab.pdb
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.csproj.AssemblyReference.cache
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.AssemblyInfoInputs.cache
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.AssemblyInfo.cs
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.csproj.CoreCompileInputs.cache
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSyst.335E658E.Up2Date
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.dll
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\refint\SaveSystemLab.dll
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.pdb
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\SaveSystemLab.genruntimeconfig.cache
+C:\Users\kamil.nurkowski\Documents\Programming\Godot\TestsAndLearn\SaveSystemLab\obj\Debug\net9.0\ref\SaveSystemLab.dll
